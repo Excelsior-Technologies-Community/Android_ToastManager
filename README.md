@@ -33,7 +33,7 @@ This library provides a modern rounded (pill-shaped) toast design with customiza
 # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/S13reya/Android_AppVersionChecker/blob/stages/app/src/main/assets/demovideo.gif" height="320"/>
+  <img src="https://github.com/S13reya/Android_ToastManager/blob/stages/app/src/main/assets/demovideo.gif" height="320"/>
 
 
 
